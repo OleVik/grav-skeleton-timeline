@@ -10,6 +10,8 @@ The **Timeline**-plugin is for [Grav CMS](http://github.com/getgrav/grav), and l
 
 Installing the Timeline-plugin can be done in one of two ways. The GPM (Grav Package Manager) installation method enables you to quickly and easily install the plugin with a simple terminal command, while the manual method enables you to do so via a zip file.
 
+**Note:** The [intl](http://php.net/manual/en/book.intl.php)-extension for PHP must be [installed and enabled](http://php.net/manual/en/intl.installation.php "See especially User Contributed Notes") to use this plugin.
+
 ### GPM Installation (Preferred)
 
 The simplest way to install this plugin is via the [Grav Package Manager (GPM)](http://learn.getgrav.org/advanced/grav-gpm) through your system's terminal (also called the command line). From the root of your Grav install type:
@@ -55,8 +57,6 @@ truncate: 100
 |   dir | asc | `asc` or `desc` | Order pages ascending or descending. |
 | cache | native | `native`, `persist`, `transient`, or `disabled` | Where to store plugin's internal data. |
 | truncate | 100 | int or boolean | Limits the amount of words in each note, to an integer or boolean state for default (100). |
-
-**Note:** The intl-extension for PHP must be installed and enabled to use this plugin.
 
 Each timeline is structured with a Header (`timeline.md`, Timeline-template) and Events (`timeline_event.md`, Timeline Event-template). Headers are used as separators and can order their descendant Events, as well as contain normal fields such as `title`, `subtitle`, and `content`. Events also render a formatted, localized `date` (using [`date_format`](http://php.net/manual/en/function.date.php) and `locale`), as well as an `image`. In addition, Events are cast as Linked Data with [JSON-LD](https://json-ld.org/), wherein `type`, `place`, `locality`, and `region` are used.
 
