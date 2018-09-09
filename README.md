@@ -73,7 +73,3 @@ Sound confusing? It's much easier to do all this from the [Admin](https://github
 #### Event Options
 
 ![Project Space](assets/event-options.png)
-
-## Development
-
-Use a SCSS-compiler, like LibSass, eg. node-sass and compile `assets/timeline.scss` to `assets/timeline.css` in the plugin-folder. For example: `node-sass --watch --source-map true assets/timeline.scss assets/timeline.css`.
