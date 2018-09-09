@@ -1,5 +1,5 @@
 name: Timeline Skeleton
-version: 1.0.0
+version: 1.0.1
 description: A demonstration of the Timeline-plugin.
 icon: align-center
 author:
@@ -13,7 +13,7 @@ readme: https://github.com/OleVik/grav-skeleton-timeline/blob/develop/README.md
 license: MIT
 
 dependencies:
-- { name: grav, version: '~1.5' }
+- { name: grav, version: '~1.6' }
 - { name: quark, version: '~1.0' }
 - { name: admin, version: '~1.0' }
 - { name: auto-date, version: '~1.0' }
