@@ -1,0 +1,9 @@
+---
+title: 'Julio-Claudian Dynasty'
+order:
+    by: date
+    dir: asc
+date: '20-07-2018 12:15'
+---
+
+The **Julio-Claudian dynasty** was the first [Roman](https://en.wikipedia.org/wiki/Ancient_Rome "Ancient Rome") imperial [dynasty](https://en.wikipedia.org/wiki/Dynasty "Dynasty"), consisting of the first five [emperors](https://en.wikipedia.org/wiki/Roman_emperor "Roman emperor")—[Augustus](https://en.wikipedia.org/wiki/Augustus "Augustus"), [Tiberius](https://en.wikipedia.org/wiki/Tiberius "Tiberius"), [Caligula](https://en.wikipedia.org/wiki/Caligula "Caligula"), [Claudius](https://en.wikipedia.org/wiki/Claudius "Claudius"), and [Nero](https://en.wikipedia.org/wiki/Nero "Nero")<sup id="cite_ref-1" class="reference">[[1]](https://en.wikipedia.org/wiki/Julio-Claudian_dynasty#cite_note-1)</sup>—or the [family](https://en.wikipedia.org/wiki/Julio-Claudian_family_tree "Julio-Claudian family tree") to which they belonged. They ruled the [Roman Empire](https://en.wikipedia.org/wiki/Roman_Empire "Roman Empire") from its formation under Augustus in 27 BC, until AD 68 when the last of the line, Nero, committed [suicide](https://en.wikipedia.org/wiki/Suicide "Suicide").<sup id="cite_ref-2" class="reference">[[2]](https://en.wikipedia.org/wiki/Julio-Claudian_dynasty#cite_note-2)</sup> The name "Julio-Claudian dynasty" is a historiographical term derived from the two main branches of the imperial family: the [_gens Julia_](https://en.wikipedia.org/wiki/Julia_(gens) "Julia (gens)") ([Julii Caesares](https://en.wikipedia.org/wiki/Julii_Caesares "Julii Caesares")) and [_gens Claudia_](https://en.wikipedia.org/wiki/Claudia_(gens) "Claudia (gens)") ([Claudii Nerones](https://en.wikipedia.org/wiki/Claudia_(gens)#Claudii_Nerones "Claudia (gens)")).

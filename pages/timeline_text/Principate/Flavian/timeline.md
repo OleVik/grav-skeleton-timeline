@@ -1,0 +1,9 @@
+---
+title: 'Flavian Dynasty'
+order:
+    by: date
+    dir: asc
+date: '20-07-2018 12:15'
+---
+
+The **Flavian dynasty** was a [Roman](https://en.wikipedia.org/wiki/Ancient_Rome "Ancient Rome") imperial [dynasty](https://en.wikipedia.org/wiki/Dynasty "Dynasty"), which ruled the [Roman Empire](https://en.wikipedia.org/wiki/Roman_Empire "Roman Empire") between 69 AD and 96 AD, encompassing the reigns of [Vespasian](https://en.wikipedia.org/wiki/Vespasian "Vespasian") (69–79), and his two sons [Titus](https://en.wikipedia.org/wiki/Titus "Titus") (79–81) and [Domitian](https://en.wikipedia.org/wiki/Domitian "Domitian") (81–96). The Flavians rose to power during the [civil war](https://en.wikipedia.org/wiki/Civil_war "Civil war") of 69, known as the [Year of the Four Emperors](https://en.wikipedia.org/wiki/Year_of_the_Four_Emperors "Year of the Four Emperors"). After [Galba](https://en.wikipedia.org/wiki/Galba "Galba") and [Otho](https://en.wikipedia.org/wiki/Otho "Otho") died in quick succession, [Vitellius](https://en.wikipedia.org/wiki/Vitellius "Vitellius") became emperor in mid 69. His claim to the throne was quickly challenged by [legions](https://en.wikipedia.org/wiki/Roman_legion "Roman legion") stationed in the Eastern provinces, who declared their commander Vespasian emperor in his place. The [Second Battle of Bedriacum](https://en.wikipedia.org/wiki/Second_Battle_of_Bedriacum "Second Battle of Bedriacum") tilted the balance decisively in favour of the Flavian forces, who entered Rome on December 20. The following day, the [Roman Senate](https://en.wikipedia.org/wiki/Roman_Senate "Roman Senate") officially declared Vespasian emperor of the Roman Empire, thus commencing the Flavian dynasty. Although the dynasty proved to be short-lived, several significant historic, economic and military events took place during their reign.

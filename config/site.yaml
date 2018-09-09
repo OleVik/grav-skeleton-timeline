@@ -1,0 +1,7 @@
+title: Timeline
+author:
+  name: Joe Bloggs
+  email: 'joe@test.com'
+metadata:
+  description: 'A demonstration of the Timeline-plugin.'
+date_short: 'd-m-Y'

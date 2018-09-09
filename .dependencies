@@ -1,0 +1,29 @@
+git:
+    error:
+        url: https://github.com/getgrav/grav-plugin-error
+        path: user/plugins/error
+        branch: master
+    feed:
+        url: https://github.com/getgrav/grav-plugin-feed
+        path: user/plugins/feed
+        branch: master
+    problems:
+        url: https://github.com/getgrav/grav-plugin-problems
+        path: user/plugins/problems
+        branch: master
+    auto-date:
+        url: https://github.com/getgrav/grav-plugin-auto-date
+        path: user/plugins/auto-date
+        branch: 1.0.2
+    timeline:
+        url: https://github.com/OleVik/grav-plugin-timeline
+        path: user/plugins/timeline
+        branch: master
+    quark:
+        url: https://github.com/getgrav/grav-theme-quark
+        path: user/themes/quark
+        branch: master
+    admin:
+        url: https://github.com/getgrav/grav-plugin-admin
+        path: user/plugins/admin
+        branch: master
