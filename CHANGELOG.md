@@ -1,3 +1,9 @@
+# v1.0.2
+## 21-09-2018
+
+1. [](#bugfix)
+    * Add missing release-package
+
 # v1.0.1
 ## 09-09-2018
 
